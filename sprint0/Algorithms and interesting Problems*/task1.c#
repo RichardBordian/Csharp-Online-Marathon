@@ -1,1 +1,12 @@
-
+using System.Collections.Generic;
+class AnagramSolver
+    {
+    public static bool IsAnagarm(string a, string b)
+    {
+        return a.Contains(b);
+    }
+    public static bool Permutations(string a, string b)
+    {
+        
+    }
+    }
