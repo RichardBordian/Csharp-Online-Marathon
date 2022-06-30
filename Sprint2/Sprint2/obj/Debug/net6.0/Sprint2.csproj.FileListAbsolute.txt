@@ -1,0 +1,15 @@
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.csproj.CoreCompileInputs.cache
+C:\All\programming\C# Marathon\Sprint2\Sprint2\bin\Debug\net6.0\Sprint2.exe
+C:\All\programming\C# Marathon\Sprint2\Sprint2\bin\Debug\net6.0\Sprint2.deps.json
+C:\All\programming\C# Marathon\Sprint2\Sprint2\bin\Debug\net6.0\Sprint2.runtimeconfig.json
+C:\All\programming\C# Marathon\Sprint2\Sprint2\bin\Debug\net6.0\Sprint2.dll
+C:\All\programming\C# Marathon\Sprint2\Sprint2\bin\Debug\net6.0\ref\Sprint2.dll
+C:\All\programming\C# Marathon\Sprint2\Sprint2\bin\Debug\net6.0\Sprint2.pdb
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.dll
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\ref\Sprint2.dll
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.pdb
+C:\All\programming\C# Marathon\Sprint2\Sprint2\obj\Debug\net6.0\Sprint2.genruntimeconfig.cache
