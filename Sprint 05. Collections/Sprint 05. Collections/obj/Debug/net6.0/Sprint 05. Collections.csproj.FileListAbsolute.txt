@@ -1,0 +1,15 @@
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\bin\Debug\net6.0\Sprint 05. Collections.exe
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\bin\Debug\net6.0\Sprint 05. Collections.deps.json
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\bin\Debug\net6.0\Sprint 05. Collections.runtimeconfig.json
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\bin\Debug\net6.0\Sprint 05. Collections.dll
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\bin\Debug\net6.0\ref\Sprint 05. Collections.dll
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\bin\Debug\net6.0\Sprint 05. Collections.pdb
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.csproj.CoreCompileInputs.cache
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.dll
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\ref\Sprint 05. Collections.dll
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.pdb
+C:\All\programming\C# Marathon\Sprint 05. Collections\Sprint 05. Collections\obj\Debug\net6.0\Sprint 05. Collections.genruntimeconfig.cache

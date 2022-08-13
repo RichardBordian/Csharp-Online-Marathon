@@ -1,0 +1,15 @@
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\bin\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.exe
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\bin\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.deps.json
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\bin\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.runtimeconfig.json
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\bin\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.dll
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\bin\Debug\net6.0\ref\Sprint 06. IEnumerable, IEnumerator Interfaces.dll
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\bin\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.pdb
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.csproj.CoreCompileInputs.cache
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.dll
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\ref\Sprint 06. IEnumerable, IEnumerator Interfaces.dll
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.pdb
+C:\All\programming\C# Marathon\Sprint 06. IEnumerable, IEnumerator Interfaces\Sprint 06. IEnumerable, IEnumerator Interfaces\obj\Debug\net6.0\Sprint 06. IEnumerable, IEnumerator Interfaces.genruntimeconfig.cache

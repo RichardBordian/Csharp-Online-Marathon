@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sprint 06. IEnumerable, IEnumerator Interfaces/1.0.0": {
+        "runtime": {
+          "Sprint 06. IEnumerable, IEnumerator Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sprint 06. IEnumerable, IEnumerator Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
