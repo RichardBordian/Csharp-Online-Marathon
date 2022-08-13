@@ -1,0 +1,15 @@
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\bin\Debug\net6.0\Sprint 4. Interfaces Generics.exe
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\bin\Debug\net6.0\Sprint 4. Interfaces Generics.deps.json
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\bin\Debug\net6.0\Sprint 4. Interfaces Generics.runtimeconfig.json
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\bin\Debug\net6.0\Sprint 4. Interfaces Generics.dll
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\bin\Debug\net6.0\ref\Sprint 4. Interfaces Generics.dll
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\bin\Debug\net6.0\Sprint 4. Interfaces Generics.pdb
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.csproj.CoreCompileInputs.cache
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.dll
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\ref\Sprint 4. Interfaces Generics.dll
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.pdb
+C:\All\programming\C# Marathon\Sprint 4. Interfaces Generics\Sprint 4. Interfaces Generics\obj\Debug\net6.0\Sprint 4. Interfaces Generics.genruntimeconfig.cache
