@@ -1,0 +1,5 @@
+C:\All\programming\C# Marathon\Sprint 10. SOLID Principles\Sprint 10. SOLID Principles\obj\Debug\net6.0\Sprint 10. SOLID Principles.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint 10. SOLID Principles\Sprint 10. SOLID Principles\obj\Debug\net6.0\Sprint 10. SOLID Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint 10. SOLID Principles\Sprint 10. SOLID Principles\obj\Debug\net6.0\Sprint 10. SOLID Principles.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint 10. SOLID Principles\Sprint 10. SOLID Principles\obj\Debug\net6.0\Sprint 10. SOLID Principles.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint 10. SOLID Principles\Sprint 10. SOLID Principles\obj\Debug\net6.0\Sprint 10. SOLID Principles.csproj.CoreCompileInputs.cache
