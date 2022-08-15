@@ -1,0 +1,15 @@
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.csproj.CoreCompileInputs.cache
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\bin\Debug\net6.0\Sprint 08. Multithreading.exe
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\bin\Debug\net6.0\Sprint 08. Multithreading.deps.json
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\bin\Debug\net6.0\Sprint 08. Multithreading.runtimeconfig.json
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\bin\Debug\net6.0\Sprint 08. Multithreading.dll
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\bin\Debug\net6.0\ref\Sprint 08. Multithreading.dll
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\bin\Debug\net6.0\Sprint 08. Multithreading.pdb
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.dll
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\ref\Sprint 08. Multithreading.dll
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.pdb
+C:\All\programming\C# Marathon\Sprint 08. Multithreading\Sprint 08. Multithreading\obj\Debug\net6.0\Sprint 08. Multithreading.genruntimeconfig.cache

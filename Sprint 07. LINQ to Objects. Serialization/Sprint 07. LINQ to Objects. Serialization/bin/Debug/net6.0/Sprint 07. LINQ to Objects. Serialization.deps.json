@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sprint 07. LINQ to Objects. Serialization/1.0.0": {
+        "runtime": {
+          "Sprint 07. LINQ to Objects. Serialization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sprint 07. LINQ to Objects. Serialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

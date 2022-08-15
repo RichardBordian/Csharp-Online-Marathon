@@ -1,0 +1,15 @@
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\bin\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.exe
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\bin\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.deps.json
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\bin\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.runtimeconfig.json
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\bin\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.dll
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\bin\Debug\net6.0\ref\Sprint 07. LINQ to Objects. Serialization.dll
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\bin\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.pdb
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.csproj.CoreCompileInputs.cache
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.dll
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\ref\Sprint 07. LINQ to Objects. Serialization.dll
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.pdb
+C:\All\programming\C# Marathon\Sprint 07. LINQ to Objects. Serialization\Sprint 07. LINQ to Objects. Serialization\obj\Debug\net6.0\Sprint 07. LINQ to Objects. Serialization.genruntimeconfig.cache
