@@ -1,0 +1,15 @@
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\bin\Release\net6.0\Sprint 09. Async.exe
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\bin\Release\net6.0\Sprint 09. Async.deps.json
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\bin\Release\net6.0\Sprint 09. Async.runtimeconfig.json
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\bin\Release\net6.0\Sprint 09. Async.dll
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\bin\Release\net6.0\ref\Sprint 09. Async.dll
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\bin\Release\net6.0\Sprint 09. Async.pdb
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.csproj.AssemblyReference.cache
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.AssemblyInfoInputs.cache
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.AssemblyInfo.cs
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.csproj.CoreCompileInputs.cache
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.dll
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\ref\Sprint 09. Async.dll
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.pdb
+C:\All\programming\C# Marathon\Sprint 09. Async\Sprint 09. Async\obj\Release\net6.0\Sprint 09. Async.genruntimeconfig.cache
